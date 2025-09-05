@@ -1,4 +1,4 @@
-### Hey, I'm Hosein.
+### Hey, I'm Hosein 👋.
 
 I'm a software developer. 
 
