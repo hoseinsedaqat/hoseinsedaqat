@@ -1,6 +1,6 @@
 ### Hey, I'm Hosein 👋
 
-I'm a Software Engineer. 
+I'm a Full Stack Developer. 
 
 ![](https://github-readme-stats.vercel.app/api?username=hoseinsedaqat&show_icons=true&theme=nightowl) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinsedaqat&layout=compact&theme=nightowl&hide=html,css,php&langs_count=6)
 
