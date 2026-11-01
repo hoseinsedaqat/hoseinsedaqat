@@ -79,6 +79,7 @@ I occasionally share my experiences, tutorials, and technical insights regarding
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoseinsedaqat&show_icons=true&theme=nightowl&hide_border=true" alt="Hosein's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinsedaqat&layout=compact&theme=nightowl&hide=html,css,php&langs_count=6&hide_border=true" alt="Hosein's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=hoseinsedaqat&show_icons=true&theme=nightowl&hide_border=true" height="175" alt="Hosein's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hoseinsedaqat&layout=compact&theme=nightowl&hide=html,css,php&langs_count=6&hide_border=true" height="175" alt="Hosein's Top Languages" />
 </div>
